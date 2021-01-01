@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.litepal.android:core:1.4.1@aar">
+    <CLASSES>
+      <root url="file:///Applications/Android/ Studio.app/Contents/gradle/gradle-6.7-rc-4/caches/transforms-2/files-2.1/dbe1a1cd54889b7f0c105a93178de082/jetified-core-1.4.1/AndroidManifest.xml" />
+      <root url="jar:///Applications/Android/ Studio.app/Contents/gradle/gradle-6.7-rc-4/caches/transforms-2/files-2.1/dbe1a1cd54889b7f0c105a93178de082/jetified-core-1.4.1/jars/classes.jar!/" />
+      <root url="file:///Applications/Android/ Studio.app/Contents/gradle/gradle-6.7-rc-4/caches/transforms-2/files-2.1/dbe1a1cd54889b7f0c105a93178de082/jetified-core-1.4.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///Applications/Android/ Studio.app/Contents/gradle/gradle-6.7-rc-4/caches/modules-2/files-2.1/org.litepal.android/core/1.4.1/9ad996113c704874db420c3e1aab78b72ac7da45/core-1.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///Applications/Android/ Studio.app/Contents/gradle/gradle-6.7-rc-4/caches/modules-2/files-2.1/org.litepal.android/core/1.4.1/48d374b3fd36704cc01fffdbf2e7e801926e07a6/core-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
